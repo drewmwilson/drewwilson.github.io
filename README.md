@@ -9,19 +9,20 @@
 ## Experience
 
 **[Apple](https://apple.com)** – Siri Engineer – *September 2013 to present*
-- Currently refactoring infrastructure to support notable DateTime events of 150 countries.
-- Designed and developed macOS application to collect audio data on macOS and iOS.
+
+- Refactoring data stores, tools, and pipelines to deliver notable DateTime events for 150 countries
+- Designed and developed macOS application to collect audio data on macOS and iOS
 - Designed and developed grading system to curate words for autocorrection
 
 
 
 **[FileThis](https://filethis.com)** – iOS Application Developer – *June 2012 to July 2013*
 
-- Designed & developed FileThis Fetch, an iOS client to FileThis, a cloud-based document storage system for online records
-- Architected document model built on top of FileThis REST APIs
-- Designed user interface for users to register with their online financial institutions and to fetch statements
+- Designed and developed FileThis Fetch, an iOS client to FileThis, a cloud-based document storage system for online records
+- Build document model on top of FileThis REST APIs
+- Developed native app to replace Flash implementation
 
-**[Netflix](https://netflix.com)** – Internationalization Software Engineer - *April 2011 to June 2012*
+**[Netflix](https://netflix.com)** – Internationalization Engineer - *April 2011 to June 2012*
 
 - Engineering lead on rewrite of catalog content management system
 - Designed and developed automated localization workflow system for translating new movies entering the Netflix catalog
@@ -41,14 +42,14 @@ iOS System Engineer - *November 2008 to April 2011*
 
 Build and Localization Engineer - *January 2002 to October 2008* -
 
-- Reengineered Apple's localization process to translate & localize continuously
-- Introduced and evangelized 3-tiered web applications & Postgres RDBMS to Apple's build organization
-- Developed applications using perl, Ruby on Rails, and Postgres
+- Refactored Apple's localization process to translate & localize in the build system
+- Introduced and evangelized 3-tiered web applications & Postgres RDBMS to Apple's localization and build organization
+- Developed applications using perl, Ruby on Rails, Postgres, and Java WebObjects
 
 **[Tanis Consulting](https://web.archive.org/web/20010924075155/http://www.tanisconsulting.com/)** – Founder, Principal Consultant - *October 2000 to December 2001*
 
 Founded small technology consulting firm to deliver backend-systems-development expertise to clients. Major projects included
-- redesigning a java-based vision training desktop application for delivery and use over a network using Apache/mod_perl, XML-RPC, and MySQL
+- redesigning a java-based vision training desktop application for web delivery using Apache/mod_perl, XML-RPC, and MySQL
 - integrating snort network intrusion detection tool into commercial security management system
 
 
@@ -59,7 +60,7 @@ Founded small technology consulting firm to deliver backend-systems-development 
 
 **[Diamondsoft](http://tidbits.com/article/7248)** - Principal Engineer - *January 1997 to October 1999*
 
-One of two engineers responsible for developing Font Reserve, a best-of-breed font management system. Brought in for internationalization, I fixed a lot of crashing resource and memory bugs. After helping ship the first stable product, I designed and implemented automatic font activation and FontSense, a precursor to Apple's FontSync. All work in C++ using PowerPlant library and early C++ templates.
+One of two engineers responsible for developing Font Reserve, a client-server font management system. Brought in for internationalization, I fixed a lot of crashing resource and memory bugs. After helping ship the first stable product, I designed and implemented a lot of key features, including automatic font activation and FontSense (a precursor to Apple's FontSync). All work in C++ using PowerPlant library and early C++ templates.
 
 
 **[Apple](https://apple.com)**
